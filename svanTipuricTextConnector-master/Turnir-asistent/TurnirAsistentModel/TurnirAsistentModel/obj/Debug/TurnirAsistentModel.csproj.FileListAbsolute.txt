@@ -1,0 +1,8 @@
+C:\Users\kostr\source\repos\EugenKostro\Turnir-asistent\TurnirAsistentModel\TurnirAsistentModel\bin\Debug\TurnirAsistentModel.dll
+C:\Users\kostr\source\repos\EugenKostro\Turnir-asistent\TurnirAsistentModel\TurnirAsistentModel\bin\Debug\TurnirAsistentModel.pdb
+C:\Users\kostr\source\repos\EugenKostro\Turnir-asistent\TurnirAsistentModel\TurnirAsistentModel\obj\Debug\TurnirAsistentModel.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\EugenKostro\Turnir-asistent\TurnirAsistentModel\TurnirAsistentModel\obj\Debug\TurnirAsistentModel.dll
+C:\Users\kostr\source\repos\EugenKostro\Turnir-asistent\TurnirAsistentModel\TurnirAsistentModel\obj\Debug\TurnirAsistentModel.pdb
+C:\Users\kostr\source\repos\EugenKostro\Turnir-asistent\TurnirAsistentModel\TurnirAsistentModel\bin\Debug\Dapper.dll
+C:\Users\kostr\source\repos\EugenKostro\Turnir-asistent\TurnirAsistentModel\TurnirAsistentModel\bin\Debug\Dapper.xml
+C:\Users\kostr\source\repos\EugenKostro\Turnir-asistent\TurnirAsistentModel\TurnirAsistentModel\obj\Debug\TurnirAsistentModel.csproj.CopyComplete
